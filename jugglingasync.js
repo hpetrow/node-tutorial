@@ -22,7 +22,7 @@ function httpGet(index) {
       if (count == process.argv.length) {
         printResults();
       }
-    });    
+    });
   });
 }
 
